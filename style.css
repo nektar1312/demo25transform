@@ -1,0 +1,25 @@
+.container{
+
+}
+.block-1{
+    
+    width: 200px;
+    height: 300px;
+    border: 4px solid #920c0c;
+    border-radius: 10px;
+    background:linear-gradient( 20deg, #1942c9, #920c0c);
+    margin: 100px;
+    
+    
+}
+.block-1:hover{
+    
+    width: 200px;
+    height: 300px;
+    border: 4px solid #920c0c;
+    border-radius: 10px;
+    background:linear-gradient( 20deg, #1942c9, #920c0c);
+    margin: 100px;
+    transform: rotate(330deg) translateX(10vw);
+    
+}
